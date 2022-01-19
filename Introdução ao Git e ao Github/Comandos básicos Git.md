@@ -1,4 +1,4 @@
-[Artigo com comandos básicos](Artigo comandos básicos Git: https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
+[Artigo com comandos básicos](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
 
 ## Comandos básicos do git:
 
