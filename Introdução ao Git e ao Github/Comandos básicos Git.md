@@ -1,4 +1,7 @@
+[Artigo com comandos básicos](Artigo comandos básicos Git: https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
+
 ## Comandos básicos do git:
+
 ### git config 
 A primeira coisa que você deve fazer quando instalar o Git é definir o seu nome de usuário e endereço de e-mail. Isso é importante porque todos os commits no Git utilizam essas informações, e está imutavelmente anexado nos commits que você realiza:
 
